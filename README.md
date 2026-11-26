@@ -1,4 +1,4 @@
-# The Digital Dollar Store — by J-Dawgs Industries
+# The Digital Dollar Store — by J-Dawgs Industries LLC
 
 Digital products at dollar-store prices, from the same shop behind the AI Tool Store. Featured on the store: the Prompt Generator at $2.99 — plain terms, three options, built to be used.
 
@@ -9,4 +9,4 @@ Main hub: https://jdawgsindustries.com/
 
 No ads. We never sell your information.
 
-© J-Dawgs Industries
+© J-Dawgs Industries LLC
